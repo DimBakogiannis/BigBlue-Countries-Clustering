@@ -18,3 +18,5 @@ Repository for the 4th project on Unsupervised ML during my studies in Big Blue 
 The main goal of the project was succeeded as the result of the Clustering is pretty close to [reality!](https://en.wikipedia.org/wiki/Developing_country#)
 - This was actually a training dataset for clustering as it provides great results
 - The EDA Section prepares you for this kind of discrete clusters and results. The quality of this dataset is pretty important in providing this output.
+
+### [ View the Project's Notebook](https://nbviewer.org/github/DimBakogiannis/BigBlue-Countries-Clustering/blob/main/Countries%20Clustering.ipynb)
